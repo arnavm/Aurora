@@ -1,0 +1,6 @@
+# Image files
+*.ppm
+*.pbm
+
+# Auto-save files
+*~
